@@ -18,6 +18,6 @@ matplotlib
 # Using headless avoids mac GUI issues and reduces build hassle:
 opencv-python-headless
 
-# MCP and Pillow for Detic
+# Model context
 fastmcp 
 pillow 
